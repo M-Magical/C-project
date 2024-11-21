@@ -5,7 +5,7 @@
 void  biggest()
 {
     int a,b,c;
-	    printf("enter 3 numbers");
+	    printf("\n enter 3 numbers: ");
     scanf("%d%d%d",&a,&b,&c);
 
     // Finding largest by comparing using relational operators
